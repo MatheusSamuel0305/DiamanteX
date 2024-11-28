@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\bin\Debug\net8.0\DiamanteX.exe
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\bin\Debug\net8.0\DiamanteX.deps.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\bin\Debug\net8.0\DiamanteX.runtimeconfig.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\bin\Debug\net8.0\DiamanteX.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\bin\Debug\net8.0\DiamanteX.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\obj\Debug\net8.0\DiamanteX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\obj\Debug\net8.0\DiamanteX.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\obj\Debug\net8.0\DiamanteX.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\obj\Debug\net8.0\DiamanteX.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\obj\Debug\net8.0\DiamanteX.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\obj\Debug\net8.0\refint\DiamanteX.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\obj\Debug\net8.0\DiamanteX.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\obj\Debug\net8.0\DiamanteX.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\DiamanteX\DiamanteX\obj\Debug\net8.0\ref\DiamanteX.dll
